@@ -1,7 +1,7 @@
 
 provider "aws" {
   region = "ap-south-1"
-  }
+ }
 variable "acc_no" {
   type = string
 }
